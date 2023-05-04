@@ -1,6 +1,5 @@
 import {RouterModule, Routes} from "@angular/router";
 import {NgModule} from "@angular/core";
-import * as path from "path";
 
 const routes: Routes = [];
 

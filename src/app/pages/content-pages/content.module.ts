@@ -1,5 +1,5 @@
 import {NgModule} from "@angular/core";
-import {ContentRoutingModule} from "./client-routing.module";
+import { ContentRoutingModule } from "./content-routing.module";
 
 @NgModule({
   imports: [

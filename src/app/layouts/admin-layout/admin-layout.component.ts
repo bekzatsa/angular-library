@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./admin-layout.component.scss']
 })
 export class AdminLayoutComponent {
-
+  close(event: any) {
+    const s: any[] = [];
+  }
 }
